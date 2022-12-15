@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Omri</h1>
-<h3 align="left">A passionate full-stack developer</h3>
+<h3 align="left">A passionate full-stack web developer</h3>
 <br/>
 
 - 🔭 I’m currently working on [Arise](https://github.com/ashkenazzio/arise)
