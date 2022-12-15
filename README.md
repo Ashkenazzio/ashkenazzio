@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, GSAP and Framer Motion**
 
-- 📫 How to reach me **ashkenazzio@gmail.com**
+- 📫 You can reach me at **ashkenazzio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
