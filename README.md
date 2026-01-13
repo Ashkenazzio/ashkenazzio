@@ -1,8 +1,8 @@
 # Omri Ashkenazi
 
-**Full-Stack Developer & AI Engineer** based in Tel Aviv
+**Full-Stack & AI Engineer** based in Tel Aviv
 
-I build production-grade web applications end-to-end, from server configuration to deployment. Linux advocate, homelab enthusiast, and self-hosting everything I can.
+I build production-grade web applications end-to-end, from server configuration to deployment. Open-source advocate, homelab enthusiast, and self-hosting everything I can.
 
 Graduate of the **AI & Deep Learning Development** program by Google × Reichman Tech School.
 
